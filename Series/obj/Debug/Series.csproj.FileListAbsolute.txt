@@ -1,0 +1,8 @@
+C:\Users\fiska\source\repos\Series\Series\bin\Debug\Series.exe.config
+C:\Users\fiska\source\repos\Series\Series\bin\Debug\Series.exe
+C:\Users\fiska\source\repos\Series\Series\bin\Debug\Series.pdb
+C:\Users\fiska\source\repos\Series\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+C:\Users\fiska\source\repos\Series\Series\obj\Debug\Series.csproj.SuggestedBindingRedirects.cache
+C:\Users\fiska\source\repos\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\fiska\source\repos\Series\Series\obj\Debug\Series.exe
+C:\Users\fiska\source\repos\Series\Series\obj\Debug\Series.pdb
